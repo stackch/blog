@@ -1,3 +1,12 @@
+/**
+ * Json Rest Client 
+ * 
+ * @author Daniel Schmutz
+ * 
+ * see https://www.simtech-ag.ch/blog/java/jsonrestclient
+ * 
+ */
+
 package ch.std.blog.rest.json;
 
 /**
